@@ -56,3 +56,6 @@ docs/_build/
 *.eps
 *.png
 *~
+
+#jupyter notebook stuff
+*.ipynb_checkpoints
