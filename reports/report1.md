@@ -1,8 +1,8 @@
 # Money "might" buy you some happiness
 
-Does money buy you happiness? It's a decades old question that people have been wondering about. Data seem to suggest that people with high income tend to be happier than people with low income. The analysis on the data suggests that there exists a relationship between the income and happiness level, but the causality between the two isn't clear. 
+Does money buy you happiness? It's a decades old question that people have been wondering about. Data seem to suggest that people with high income tend to be happier than people with low income. The analysis on the data suggests that there exists a relationship between the income and happiness level, but the analysis does not provide a substantial evidence that this relationship is a causality. 
 
-Using the data from the General Social Survey (GSS) on the respondent's income and happiness level, I tried to find whether people with high income are happier than people with low income. Through this question, I tried to gain an insight on whether money has an positive effect on a person's happiness level.
+Using the data from UChicago NORC's General Social Survey (GSS) on the respondent's income and happiness level, I tried to find whether people with high income are happier than people with low income. Through this question, I tried to gain an insight on whether money has an positive effect on a person's happiness level.
 
 ### Methodology
 
@@ -34,6 +34,6 @@ PMF plots of both high income and low income groups were skewed the left, but th
 
 ### Interpretation
 
-The mean and the PMF plot of the distribution of general happiness and marriage happiness values suggests that people with high income, categorized as having an annual income that is in 5th quintile of US annual income, tend to be generally happier and happier in marriage compared to people with low income, with annual income that falls in the 1st quintile of US income. However, the difference in happiness level between the two groups was much more apparent in the general happiness value than in the marriage happiness value. However, it is worth noting this observation does not provide any substantial evidence of the causality between happiness and income.
+The mean and the PMF plots of the distribution of general happiness and marriage happiness values present a number of interesting insights. The data suggest that people with high income, categorized as having an annual income that is in the 5th quintile of US annual income, tend to be generally happier in their life and marriage compared to people with low income, with annual income that falls in the 1st quintile of US income. Interestingly, the difference in happiness level between the two groups was much more apparent in the general happiness value than in the marriage happiness value. However, it is worth noting this observation does not provide any substantial evidence of the causality between happiness and income.
 
 Additionally, the data suggest that the people with high income tend to value the feeling of accomplishment and importance of the work in their workplace more than people with low income do.
