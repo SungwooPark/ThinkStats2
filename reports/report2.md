@@ -26,4 +26,9 @@ Following is a table summarizing the serial correlation values of the number of 
 | NYT | -0.014782481757562253 | -0.0008041267638878915 | -0.0023373725413949925 | 0.006418153244978329 |
 | The Washington Post | -0.020166667924224203 | -0.027377831942780817 | -0.014020351104383995 | -0.001392318016343383 |
 | Time | -0.021322859342308716 | -0.01729191409269437 | -0.008359143931852168 | -0.0040691125244319195 |
-| USA Today | -0.024658035151354982 | -0.019656236403451436 | -0.016058607242599932 | -0.0068374022853718635 |s
+| USA Today | -0.024658035151354982 | -0.019656236403451436 | -0.016058607242599932 | -0.0068374022853718635 |
+
+All serial correlation values are small, indicating that there are no significant daily, weekly, monthly, or yearly serial correlation. 
+
+## Conclusion
+When I compute the serial correlation values for the time series of number of likes for media outlet social media posts, the computed values are very small. Small serial correlation values suggests that there is no serial correlation of any sort among number of likes that a media outlet's social media posts get. 
