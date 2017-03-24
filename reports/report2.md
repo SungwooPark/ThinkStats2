@@ -32,3 +32,5 @@ All serial correlation values are small, indicating that there are no significan
 
 ## Conclusion
 When I compute the serial correlation values for the time series of number of likes for media outlet social media posts, the computed values are very small. Small serial correlation values suggests that there is no serial correlation of any sort among number of likes that a media outlet's social media posts get. 
+
+A link to Jupyter notebook with code for analysis presented above can be found [here](https://github.com/SungwooPark/ThinkStats2/blob/master/code/report2.ipynb)
