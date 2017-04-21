@@ -28,7 +28,7 @@ The example of how my data looks like is shown in Figure 1 with a scatter plot o
 
  **Figure 4: The serial correlation values of the number of likes that the Huffington Post's Facebook posts received.**
 
-## Results and Intepretation
+## Results and Interpretation
 
 Following is a table summarizing the serial correlation values of the number of likes from different media outlets.
 
